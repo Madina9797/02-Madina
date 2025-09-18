@@ -1,0 +1,48 @@
+h1 {
+    
+    color:brown;
+    font-size: 40px;
+}
+h2 {
+    color:black
+}
+h3 {
+    color:blue
+}
+body {
+    background-color:antiquewhite
+}
+
+
+.container {
+    
+    display: inline-block;
+    justify-content: center;
+    gap: 2px;
+    width: 200px;
+    height: 300px;
+    
+}
+
+.container p {
+   margin: 3;
+   border: 1px solid black;
+   padding: 20px;
+   background-color:rgb(170, 219, 231);
+    
+} 
+.card {
+    width: 45%;
+}
+
+.card{
+    height: 50%;
+}
+
+p.done {
+    color:brown
+}
+
+
+
+
